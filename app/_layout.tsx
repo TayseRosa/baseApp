@@ -15,6 +15,11 @@ export default function RootLayout(){
                     name="(tabs)"
                     options={{drawerLabel:'Drawer Tabs', headerTitle:'Tabs'}}
                 />
+
+                <Drawer.Screen 
+                    name="profile"
+                    options={{drawerLabel:'Profile', headerTitle:'Profile'}}
+                />
             </Drawer>
             
         </GestureHandlerRootView>
