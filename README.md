@@ -3,11 +3,11 @@
 <p>
 Projeto base para startar novos projetos, contendo: 
 
-- [] Splash screen
-- [] Onboarding screen
-- [] Login screen
-- [] SignUp screen (com autenticação JWT)
-- [] Profile screen
+- [ ] Splash screen
+- [ ] Onboarding screen
+- [ ] Login screen
+- [ ] SignUp screen (com autenticação JWT)
+- [ ] Profile screen
 - [x] Main screen
 - [x] Navigate 
 - [x] Tab 
